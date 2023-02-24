@@ -1,0 +1,112 @@
+#relative{
+    position: absolute;
+    top: 15%;
+    left:4%;
+    color: azure;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 65px;
+}
+#topwrite{
+    position: relative;
+}
+#content1{
+    position: absolute;
+    top: 35%;
+    left:3%;
+    color: azure;
+    font-family: "Dancing Script";
+    font-size: 25px;   
+}
+#cc{
+    padding-left: 12%;
+    text-shadow: 5;
+}
+#cpudding{
+    padding-left: 12%;
+}
+#strawberry{
+    padding-left: 12%;
+}
+#pastry{
+    padding-left: 12%;
+}
+
+#cccontent{
+    color: rgb(214, 170, 49);
+    font-size: 25px;
+    padding-left: 14%;
+    padding-top: 2%;
+}
+#cpuddingcontent{
+    color: rgb(214, 170, 49);
+    font-size: 25px;
+    padding-left: 17%;
+    padding-top: 2%;
+
+}
+#strawcontent{
+    color: rgb(214, 170, 49);
+    font-size: 25px;
+    padding-left: 18%;
+    padding-top: 2%;
+}
+#pastrycontent{
+    color: rgb(214, 170, 49);
+    font-size: 25px;
+    padding-left: 14%;
+    padding-top: 2%;   
+}
+#ccc2{
+    color: whitesmoke;
+    font-size: 20px;
+    padding-left: 10%;
+    padding-top: 1%;  
+}
+#ccc3{
+    color: whitesmoke;
+    font-size: 20px;
+    padding-left: 6%;
+    padding-top: 1%;
+}
+#ccc4{
+    color: whitesmoke;
+    font-size: 20px;
+    padding-left: 7%;
+    padding-top: 1%;
+}
+#ccc5{
+    color: whitesmoke;
+    font-size: 20px;
+    padding-left: 8%;
+    padding-top: 1%;
+}#Sweettooth{
+    font-size: 35px;
+    color:rgb(214, 170, 49);
+    padding-top: 6%;
+    padding-left: 13%;
+    
+}
+#aboutus{
+    font-size: 35px;
+    color:rgb(214, 170, 49);
+    padding-top: 6%;
+    padding-left: 24%;
+}
+#map{
+    padding-top: 6%;
+    padding-left: 10%;
+}
+#ccccc{
+    color: aliceblue;
+    font-size: 20px;
+    padding-top: 20%;
+}
+#ss{
+    color: aliceblue;
+    font-size: 20px;
+    padding-top: 20%; 
+    
+}
+#2row{
+
+}
